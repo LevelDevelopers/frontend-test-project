@@ -14,11 +14,13 @@ Vítáme vás v našem testovacím projektu a jsme velmi rádi, že jste se rozh
 
 * K instalaci JS knihoven použíjte NPM.
 
-* Pro generování CSS využijte stylovací preprocessor (LESS, SASS) a bundler (Webpack), základní stylování vychází z Bootstrap4 - https://getbootstrap.com.
+* Pro generování CSS využijte stylovací preprocessor (SCSS) a bundler (Webpack), základní stylování vychází z Bootstrap5 - https://getbootstrap.com.
 
 * GIT historie by měla odpovídat fázím výše, tj. cca 4 commity.
 
 * Stránka by po kliknutí na menu a tlačítka měla odscrolovat na požadovaný obsah.
+
+* Využití technologie Svelte je vítané, ne však nutné.
 
 ###  1. fáze
 
@@ -38,7 +40,7 @@ Vytvořte mapu přes knihovnu Leaflet (https://leafletjs.com/), případně Goog
 
 ## Doručení
 
-* Až budete hotov, pozvěte [developers@level.systems](mailto:developers@level.systems) do vašeho repozitáře v gitu (např. GitHub, Bitbucket) a pošlete odkaz na živé demo, které nahrajte veřejně a to pouze na dobu 7 dnů. 
+* Až budete hotov/a, pozvěte [developers@level.systems](mailto:developers@level.systems) do vašeho repozitáře v gitu (např. GitHub, Bitbucket) a pošlete odkaz na živé demo, které nahrajte veřejně a to pouze na dobu 7 dnů. 
 
 * V případě jakýchkoliv dotazů, pište na [developers@level.systems](mailto:developers@level.systems)
 
@@ -55,8 +57,4 @@ Vytvořte mapu přes knihovnu Leaflet (https://leafletjs.com/), případně Goog
 
 * Projekt je velmi otevřený, v kreativitě se meze nekladou. Překvapte nás!
 
-* Doba na projektu by neměla přesáhnout cca 1 den čistého času (tj. 8 hod. práce).
-
-
-
-
+* Doba na projektu by neměla přesáhnout cca 2 dny čistého času (tj. 16 hod. práce).
